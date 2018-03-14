@@ -235,7 +235,7 @@ https://github.com/yui/pure/blob/master/LICENSE.md
     /*IE 6/7/8*/
     border: none rgba(0, 0, 0, 0);
     /*IE9 + everything else*/
-    background-color: #E6E6E6;
+    background-color: #FFDB58;
     text-decoration: none;
     border-radius: 2px;
     -webkit-font-smoothing: antialiased;
